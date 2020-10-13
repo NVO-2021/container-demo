@@ -39,7 +39,7 @@
         <common-arch-version>1.0.3</common-arch-version>
         <graylog-logback-version>1.0.30</graylog-logback-version>
         <testng-version>6.9.4</testng-version>
-        <junit-version>4.10</junit-version>
+        <junit-version>4.13.1</junit-version>
     </properties>
 
     <dependencies>
